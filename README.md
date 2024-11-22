@@ -20,7 +20,7 @@ A simple banking system implemented in Python that allows users to perform basic
 2. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/SHAHUL-AHMED-77/Banking-System.git
+    git clone https://github.com/SyedShahulAhmed/Banking-System.git
     ```
 
 3. Navigate to the project directory:
